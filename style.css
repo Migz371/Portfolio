@@ -44,7 +44,7 @@
 			p{
 			color: white;
 			text-align:center;
-			margin: 0 10% 0 10%;
+			margin: 0 10% 200 10%;
 			font-family: 'DM Serif Display', serif;
 			}
 			
@@ -71,8 +71,8 @@
 			margin: 90 0 100 0;
 			}
 			
-			.gameimages{
-			margin: 0 30 100 0;
+			.gameimages p{
+			
 			}
 			
 			
@@ -80,7 +80,7 @@
 			
 			.gameimagesdiv{
 			width: 100%;
-			margin: 90 0 100 0;
+			margin: 90 0 50 0;
 			}
 			
 			.productdiv img{
@@ -98,31 +98,6 @@
 			margin-top: 20px;
 			}
 			
-
-			
-			.socialdiv{
-			width: 100%;
-			margin: 90 0 100 0;
-
-			
-			}
-			
-			.social img{
-			width: 50%;
-			display: inline-block;
-			transition: transform .5s;
-				
-			}
-			
-			.social h1{
-			font-size: 100%;
-			color: white;
-			}
-			
-			.social{
-				display: inline-block;
-				
-			}
 			
 			.footer{
 				background-color: 242424;	
@@ -228,9 +203,11 @@
 				img{
 				text-align:center;
 				display: block;
+				margin: 0 0 100 0;
 				margin-left: auto;
 				margin-right: auto;
 				width: 110%;
+				
 				}
 			
 			
@@ -388,9 +365,6 @@
 				margin-bottom: 100px;			
 				}
 				
-				.social img:hover{
-				transform: scale(1.2); 
-				}
 				
 
 				
